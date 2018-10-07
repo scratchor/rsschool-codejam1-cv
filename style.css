@@ -90,3 +90,38 @@ header>article {
 p {
     font-size: 120%;
 }
+
+.educ ul li {
+    margin: 0;
+}
+
+.educ ul {
+    margin: 0;
+}
+
+.educ .head {
+    vertical-align: top;
+    line-height: 120%;
+    margin-top: 18px;
+    font-weight: bold;
+}
+.educ .tab { 
+    vertical-align: top;
+    line-height: 120%;
+    margin-top: 18px;
+    
+}
+
+.educ {
+    font-size: 120%;
+}
+
+.educ .head ul li {
+    margin-bottom: 18%;
+}
+
+.educ .tab ul li {
+    margin-bottom: 10px;
+    
+}
+
