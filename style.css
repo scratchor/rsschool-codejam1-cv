@@ -95,33 +95,43 @@ p {
     margin: 0;
 }
 
-.educ ul {
+.educ ul,
+.work ul {
     margin: 0;
 }
 
-.educ .head {
+.educ .head,
+.work .head {
     vertical-align: top;
-    line-height: 120%;
-    margin-top: 18px;
+    line-height: 118%;
+    margin-top: 2%;
     font-weight: bold;
 }
-.educ .tab { 
+.educ .tab,
+.work .tab,
+.workTab { 
     vertical-align: top;
-    line-height: 120%;
-    margin-top: 18px;
-    
+    line-height: 118%;
+    margin-top: 2%;    
 }
+
+
 
 .educ {
     font-size: 120%;
 }
 
-.educ .head ul li {
+.educ .head ul li,
+.work .head ul li {
     margin-bottom: 18%;
 }
+ .work .workTab ul li {
+    margin-bottom: 18%;
+ }
 
-.educ .tab ul li {
-    margin-bottom: 10px;
-    
-}
+
+
+
+
+
 
