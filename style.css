@@ -97,7 +97,7 @@ header>article {
 }
 
 .tech > .tab {
-    font-weight: normal;
+    font-weight: normal;    
 }
 
 p {
@@ -117,6 +117,7 @@ p {
     margin-top: 2%;
     font-weight: bold;
 }
+
 .educ .tab,
 .work .tab,
 .workTab { 
